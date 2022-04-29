@@ -1,0 +1,204 @@
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+}
+
+.center{
+    border-color: #bbb;
+}
+
+/* color 1 */
+
+.menubar,.main-navigation ul ul,.site-info,#theme-sidebar button[type="submit"],.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.prev.page-numbers:focus, .prev.page-numbers:hover, .next.page-numbers:focus, .next.page-numbers:hover,.page-numbers:hover,.more-btn a:hover,#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon,.read-more-btn a:hover,.cat-inner-box a:hover,#footer,span.meta-nav,.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+    background: #344269;
+}
+h1, h2, h3, h4, h5, h6,.box-info i,.logo p,.call p, .email p,.box-content a, #theme-sidebar .textwidget a, #footer .textwidget a, .comment-body a, .entry-content a, .entry-summary a,#theme-sidebar h3,nav.woocommerce-MyAccount-navigation ul li a,.timebox span,.timebox i,.social-media span,.social-media i,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.page-numbers,.more-btn a,#static-blog h3,.blog-info,#static-blog h4 a,.read-more-btn a,.cat-inner-box a,.search-box i,#comments input[type="submit"],#theme-sidebar a:hover,.wp-block-file .wp-block-file__button, .wp-block-button .wp-block-button__link, #footer button[type="submit"]{
+    color: #344269;
+}
+nav.woocommerce-MyAccount-navigation ul li{
+    border-color: #344269;
+    box-shadow: -2px 2px 0 0 #344269;
+}
+
+.center1{
+    border-right-color: #344269;
+    border-top-color: #344269;
+    width: 150px;
+    height: 150px;
+}
+.center1 .ring::before {
+    background: #344269;
+}
+
+/* color 2 */
+
+.top-header,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.page-numbers,.prev.page-numbers, .next.page-numbers,.more-btn a,.blog-info,.read-more-btn a,.cat-inner-box a,.search-box i,#comments input[type="submit"],.wp-block-file .wp-block-file__button, .wp-block-button .wp-block-button__linkm,#footer button[type="submit"]{
+    background: #fcbcba;
+}
+a,.call i, .email i,.main-navigation a:hover,.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a,p.infotext,a:hover{
+    color: #fcbcba;
+}
+
+#static-blog h3,.search_inner form.search-form{
+    border-color: #fcbcba;
+}
+
+.center2 {
+    border-right-color: #fcbcba;
+    border-top-color: #fcbcba;
+    width: 70px;
+    height: 70px;
+}
+.center2 .ring::before {
+    background: #fcbcba;
+}
+
+/* color 3 */
+
+.site-info p,#theme-sidebar button[type="submit"],.page-numbers:hover a,.read-more-btn a:hover,#footer li a,#footer li,#footer th, #footer td,#footer caption,#footer .textwidget,#footer .tagcloud a,span.meta-nav{
+    color: #fff;
+}
+.headerbox{
+    background: #fff;
+}
+
+#footer h3,#footer th,#footer td,#footer tr,#footer table#wp-calendar,#footer .widget_rss li,#footer .tagcloud a{
+    border-color: #fff;
+}
+
+body,#theme-sidebar li,#theme-sidebar a,.page-box p,.box-info span,#static-blog p{
+    color: #696969;
+}
+
+.logo,.call{
+    text-align: right;
+}
+
+/* Slider */
+
+#slider .inner_carousel h2{
+    text-transform: uppercase;
+    border-right: solid 7px #fcbcba;
+    font-size: 50px;
+}
+.read-more-btn a {
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/* Trip Offers */
+
+#travel-offer h6 {
+    font-size: 15px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    color: #fcbcba;
+    margin-bottom: 20px;
+}
+#travel-offer h2 {
+    border-right: solid 7px #fcbcba;
+    font-size: 35px;
+    padding-right: 25px;
+}
+.cat-inner-box {
+    border: solid 1px #dbdcde;
+}
+.cat-inner-box h4 {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    background: #fcbcba;
+    padding: 10px;
+    font-size: 15px;
+}
+.cat-inner-box h3 {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.cat-inner-box span {
+    font-size: 14px;
+}
+.cat-inner-box a {
+    padding: 8px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.site-info {
+    border-top: solid 1px #fff;
+}
+
+.bypostauthor > .comment-body > .comment-meta > .comment-author .avatar {
+  border: 1px solid #333;
+  padding: 2px;
+}
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+.screen-reader-text:focus {
+  background-color: #eee;
+  clip: auto !important;
+  clip-path: none;
+  color: #444;
+  display: block;
+  font-size: 1em;
+  height: auto;
+  right: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+@media screen and (max-width: 767px){
+    .logo,.call,#slider .inner_carousel {
+        text-align: center;
+    }
+    .logo,.email {
+        margin-bottom: 20px;
+    }
+    .innermenubox {
+        padding-bottom: 0;
+    }
+    .main-navigation ul ul{
+        background: transparent;
+    }
+    #slider .carousel-caption {
+        left: 15%;
+    }
+    #slider .carousel-control-prev-icon, #slider .carousel-control-next-icon{
+        padding: 15px;
+    }
+    .offer-box{
+        padding: 15px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .innermenubox {
+        padding-bottom: 0;
+    }
+    .main-navigation ul ul{
+        background: transparent;
+    }
+    #slider .carousel-caption{
+        left: 25%;
+    }
+}
